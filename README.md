@@ -13,6 +13,7 @@ Write the needed HMTL code.
 Run the Django server and execute the HTML FILES.
 
 # Code:
+```
 map.html
 
 <!DOCTYPE html>
@@ -149,6 +150,7 @@ and experienced faculty with commitment to serve the college in achieving its go
 </p>
 </body>
 </html>
+```
 
 
 
@@ -162,5 +164,5 @@ and experienced faculty with commitment to serve the college in achieving its go
 
 
 # Result:
-this exucuted 
+all done
 
